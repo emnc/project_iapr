@@ -16,5 +16,8 @@ data/
 # data/lab-02-data/
 # data/lab-03-data/
 # data/project-data.tar.gz
+
+labs/
+
 key1
 key1.pub
